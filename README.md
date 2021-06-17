@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi I'm Song Hyun 👋
 
-<!--
-**ssonghyun101/ssonghyun101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Profile
+### Education
+2018~ : The Catholic Univ of Korea, dept of Media Technology Contents
 
-Here are some ideas to get you started:
+### Project
+#### 2021
+- Planner - [칭찬할고래](https://play.google.com/store/apps/details?id=com.sopt27.praisewhale)
+- Planner - [BeMe](https://play.google.com/store/apps/details?id=com.teambeme.beme&hl=ko)
+- Andoid Develop - 진술게임
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 2020
+- Plan & Design & Andoid Develop - [나의가대](https://play.google.com/store/apps/details?id=com.mycuk.viewpage)
+
+
+### Experience
+
+#### 2021
+- 28th SOPT Android Development
+- UI/UX Design - Maring
+
+#### 2020
+- 27th SOPT PLAN
+- SK LOOKIE
+- CJ UNIT
