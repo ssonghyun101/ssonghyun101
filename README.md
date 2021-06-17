@@ -6,8 +6,8 @@
 
 ### Project
 #### 2021
-- Planner - [칭찬할고래](https://play.google.com/store/apps/details?id=com.sopt27.praisewhale)
-- Planner - [BeMe](https://play.google.com/store/apps/details?id=com.teambeme.beme&hl=ko)
+- Service Plan - [칭찬할고래](https://play.google.com/store/apps/details?id=com.sopt27.praisewhale)
+- Service Plan - [BeMe](https://play.google.com/store/apps/details?id=com.teambeme.beme&hl=ko)
 - Andoid Develop - 진술게임
 
 #### 2020
