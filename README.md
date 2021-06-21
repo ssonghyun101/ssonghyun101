@@ -8,7 +8,7 @@
 #### 2021
 - Service Plan - [칭찬할고래](https://play.google.com/store/apps/details?id=com.sopt27.praisewhale)
 - Service Plan - [BeMe](https://play.google.com/store/apps/details?id=com.teambeme.beme&hl=ko)
-- Andoid Develop - 진술게임
+- Andoid Develop - [진술게임](https://github.com/SOPKATHON-28th/JinSool)
 
 #### 2020
 - Plan & Design & Andoid Develop - [나의가대](https://play.google.com/store/apps/details?id=com.mycuk.viewpage)
