@@ -9,6 +9,7 @@
 - Service Plan - [칭찬할고래](https://play.google.com/store/apps/details?id=com.sopt27.praisewhale)
 - Service Plan - [BeMe](https://play.google.com/store/apps/details?id=com.teambeme.beme&hl=ko)
 - Andoid Develop - [진술게임](https://github.com/SOPKATHON-28th/JinSool)
+- Andoid Develop - [마스코타](https://github.com/TeamMascota)
 
 #### 2020
 - Plan & Design & Andoid Develop - [나의가대](https://play.google.com/store/apps/details?id=com.mycuk.viewpage)
@@ -19,6 +20,7 @@
 #### 2021
 - 28th SOPT Android Development
 - UI/UX Design - Maring
+- 29th SOPT Android Development
 
 #### 2020
 - 27th SOPT PLAN
