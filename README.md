@@ -27,5 +27,5 @@
 - SK LOOKIE
 - CJ UNIT
 
-<img src="https://github-readme-stats.vercel.app/api?username=ssonghyun101&hide=stars&show_icons=true&theme=white&count_private=true&line_height=26">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ssonghyun101&hide=stars&show_icons=true&theme=white&count_private=true&line_height=26"> -->
 
