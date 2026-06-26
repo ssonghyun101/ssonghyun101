@@ -1,8 +1,13 @@
 # Hi I'm Song Hyun 👋
 
 ## Profile
+
+### Career
+2026.04 ~         : Actionpower.Corp (Daglo) - Product Manager   
+2022.12 ~ 2026.04 : ESTsecurity Corp (Alyac) - Product Manager
+
 ### Education
-2018~ : The Catholic Univ of Korea, dept of Media Technology Contents
+2018~2022: The Catholic Univ of Korea, dept of Media Technology Contents
 
 ### Project
 #### 2021
