@@ -3,8 +3,8 @@
 ## Profile
 
 ### Career
-2026.04 ~         : Actionpower.Corp (Daglo) - Product Manager   
-2022.12 ~ 2026.04 : ESTsecurity Corp (Alyac) - Product Manager
+2026.04 ~         : Actionpower.Corp ([Daglo](https://daglo.ai) - Product Manager   
+2022.12 ~ 2026.04 : ESTsecurity Corp ([Alyac](https://play.google.com/store/apps/details?id=com.estsoft.alyac) - Product Manager
 
 ### Education
 2018~2022: The Catholic Univ of Korea, dept of Media Technology Contents
